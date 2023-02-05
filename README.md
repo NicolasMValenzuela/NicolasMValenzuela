@@ -1,3 +1,5 @@
+https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif
+
 <h1 align="center">Hi 👋, I'm Nicolas Valenzuela</h1>
 <h3 align="center">A passionate Python and Front-end developer from Argentina</h3>
 
